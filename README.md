@@ -1,7 +1,10 @@
 # CleanCode_Assignment
 Changed code  according to clean code concepts
+--------------------------------------------------
 
 CLEAN CODE
+
+-------------------------------------------------
 "EASY TO UNDERSTAND AND EASY TO CHANGE"
 -----------------------------------------------
 Clean code is a code that is easy to understand and easy to change.
